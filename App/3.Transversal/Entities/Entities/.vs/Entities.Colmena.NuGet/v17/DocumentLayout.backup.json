@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\3.transversal\\entities\\entities\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\3.transversal\\entities\\entities\\entities\\enums\\colmenauserenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|solutionrelative:entities\\enums\\colmenauserenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\3.transversal\\entities\\entities\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|solutionrelative:entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\3.transversal\\entities\\entities\\entities\\base\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|solutionrelative:entities\\base\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\3.transversal\\entities\\entities\\entities\\base\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|solutionrelative:entities\\base\\audit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\3.transversal\\entities\\entities\\entities\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|solutionrelative:entities\\quote.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\3.transversal\\entities\\entities\\entities\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|solutionrelative:entities\\line.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\3.transversal\\entities\\entities\\entities\\enums\\colmenastateenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|solutionrelative:entities\\enums\\colmenastateenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\3.transversal\\entities\\entities\\entities\\enums\\colmenaexpiresenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|solutionrelative:entities\\enums\\colmenaexpiresenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\3.transversal\\entities\\entities\\entities\\enums\\colmenaenvironmentenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|solutionrelative:entities\\enums\\colmenaenvironmentenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\3.transversal\\entities\\entities\\entities\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|solutionrelative:entities\\usertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\3.transversal\\entities\\entities\\entities\\quoteproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD830E1E-ED63-4C4B-BC64-19C4F5D06E5E}|Entities\\Entities.Colmena.NuGet.csproj|solutionrelative:entities\\quoteproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColmenaUserEnum.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\ColmenaUserEnum.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\ColmenaUserEnum.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\ColmenaUserEnum.cs",
+              "RelativeToolTip": "Entities\\Enums\\ColmenaUserEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:22:39.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Audit.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\Base\\Audit.cs",
+              "RelativeDocumentMoniker": "Entities\\Base\\Audit.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\Base\\Audit.cs",
+              "RelativeToolTip": "Entities\\Base\\Audit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:39:58.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Line.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\Line.cs",
+              "RelativeDocumentMoniker": "Entities\\Line.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\Line.cs",
+              "RelativeToolTip": "Entities\\Line.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T23:44:34.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Entities\\Product.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\Product.cs",
+              "RelativeToolTip": "Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T23:47:38.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Quote.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\Quote.cs",
+              "RelativeDocumentMoniker": "Entities\\Quote.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\Quote.cs",
+              "RelativeToolTip": "Entities\\Quote.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T23:51:17.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\Base\\State.cs",
+              "RelativeDocumentMoniker": "Entities\\Base\\State.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\Base\\State.cs",
+              "RelativeToolTip": "Entities\\Base\\State.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:40:02.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwC8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T23:39:20.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColmenaStateEnum.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\ColmenaStateEnum.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\ColmenaStateEnum.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\ColmenaStateEnum.cs",
+              "RelativeToolTip": "Entities\\Enums\\ColmenaStateEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T02:35:52.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ColmenaExpiresEnum.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\ColmenaExpiresEnum.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\ColmenaExpiresEnum.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\ColmenaExpiresEnum.cs",
+              "RelativeToolTip": "Entities\\Enums\\ColmenaExpiresEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:22:23.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ColmenaEnvironmentEnum.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\ColmenaEnvironmentEnum.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\ColmenaEnvironmentEnum.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\ColmenaEnvironmentEnum.cs",
+              "RelativeToolTip": "Entities\\Enums\\ColmenaEnvironmentEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:17:39.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserType.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\UserType.cs",
+              "RelativeDocumentMoniker": "Entities\\UserType.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\UserType.cs",
+              "RelativeToolTip": "Entities\\UserType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T23:32:45.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "QuoteProduct.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\QuoteProduct.cs",
+              "RelativeDocumentMoniker": "Entities\\QuoteProduct.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Entities\\Entities\\Entities\\QuoteProduct.cs",
+              "RelativeToolTip": "Entities\\QuoteProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T23:56:49.737Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

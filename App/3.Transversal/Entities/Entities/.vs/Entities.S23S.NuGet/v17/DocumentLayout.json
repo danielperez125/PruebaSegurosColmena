@@ -1,0 +1,466 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\fixtureautomatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\fixtureautomatic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\fixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\fixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\enums\\s23splayingfrequencyenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\enums\\s23splayingfrequencyenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\championshipplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\championshipplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\enums\\s23sstagegamemodeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\enums\\s23sstagegamemodeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\enums\\s23sstateenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\enums\\s23sstateenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\championshipplaylocationteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\championshipplaylocationteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\enums\\s23sportsenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\enums\\s23sportsenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\enums\\s23sclientcorp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\enums\\s23sclientcorp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\stagegamemode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\stagegamemode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\blognews\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\blognews\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\goalcrack\\goalcrackresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\goalcrack\\goalcrackresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\goalcrack\\goalcrackposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\goalcrack\\goalcrackposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\services\\mailserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\services\\mailserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\enums\\s23suserpasswordstepsenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\enums\\s23suserpasswordstepsenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\goalcrack\\s23spointsgoalcrackenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\goalcrack\\s23spointsgoalcrackenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\enums\\s23teamanotationenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\enums\\s23teamanotationenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\logerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\logerrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\clientuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\clientuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\services\\maildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\services\\maildata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\enums\\s23sconfigenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\enums\\s23sconfigenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\goalcrack\\goalcrackcockowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\goalcrack\\goalcrackcockowner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\goalcrack\\goalcrackcockregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\goalcrack\\goalcrackcockregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\sysconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\sysconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\entities\\entities\\entities\\enums\\s23sgenderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07C0CA45-8610-4119-9DA4-242387588EA8}|Entities\\Entities.S23S.NuGet.csproj|solutionrelative:entities\\enums\\s23sgenderenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "S23SStageGameModeEnum.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\S23SStageGameModeEnum.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\S23SStageGameModeEnum.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\S23SStageGameModeEnum.cs",
+              "RelativeToolTip": "Entities\\Enums\\S23SStageGameModeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T21:52:51.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "S23SPlayingFrequencyEnum.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\S23SPlayingFrequencyEnum.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\S23SPlayingFrequencyEnum.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\S23SPlayingFrequencyEnum.cs",
+              "RelativeToolTip": "Entities\\Enums\\S23SPlayingFrequencyEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-06T03:28:57.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FixtureAutomatic.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\FixtureAutomatic.cs",
+              "RelativeDocumentMoniker": "Entities\\FixtureAutomatic.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\FixtureAutomatic.cs",
+              "RelativeToolTip": "Entities\\FixtureAutomatic.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwB0AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T01:34:47.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChampionshipPlayLocationTeam.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\ChampionshipPlayLocationTeam.cs",
+              "RelativeDocumentMoniker": "Entities\\ChampionshipPlayLocationTeam.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\ChampionshipPlayLocationTeam.cs",
+              "RelativeToolTip": "Entities\\ChampionshipPlayLocationTeam.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T17:11:12.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChampionshipPlay.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\ChampionshipPlay.cs",
+              "RelativeDocumentMoniker": "Entities\\ChampionshipPlay.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\ChampionshipPlay.cs",
+              "RelativeToolTip": "Entities\\ChampionshipPlay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T16:32:59.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "S23SClientCorp.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\S23SClientCorp.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\S23SClientCorp.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\S23SClientCorp.cs",
+              "RelativeToolTip": "Entities\\Enums\\S23SClientCorp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:39:57.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StageGameMode.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\StageGameMode.cs",
+              "RelativeDocumentMoniker": "Entities\\StageGameMode.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\StageGameMode.cs",
+              "RelativeToolTip": "Entities\\StageGameMode.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T21:22:53.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "S23SportsEnum.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\S23SportsEnum.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\S23SportsEnum.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\S23SportsEnum.cs",
+              "RelativeToolTip": "Entities\\Enums\\S23SportsEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T00:40:16.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "News.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\BlogNews\\News.cs",
+              "RelativeDocumentMoniker": "Entities\\BlogNews\\News.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\BlogNews\\News.cs",
+              "RelativeToolTip": "Entities\\BlogNews\\News.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T03:38:11.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "S23SPointsGoalCrackEnum.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\GoalCrack\\S23SPointsGoalCrackEnum.cs",
+              "RelativeDocumentMoniker": "Entities\\GoalCrack\\S23SPointsGoalCrackEnum.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\GoalCrack\\S23SPointsGoalCrackEnum.cs",
+              "RelativeToolTip": "Entities\\GoalCrack\\S23SPointsGoalCrackEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T23:39:30.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "S23SStateEnum.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\S23SStateEnum.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\S23SStateEnum.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\S23SStateEnum.cs",
+              "RelativeToolTip": "Entities\\Enums\\S23SStateEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T00:16:17.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LogErrors.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\LogErrors.cs",
+              "RelativeDocumentMoniker": "Entities\\LogErrors.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\LogErrors.cs",
+              "RelativeToolTip": "Entities\\LogErrors.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowDgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T23:48:17.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "S23SUserPasswordStepsEnum.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\S23SUserPasswordStepsEnum.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\S23SUserPasswordStepsEnum.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\S23SUserPasswordStepsEnum.cs",
+              "RelativeToolTip": "Entities\\Enums\\S23SUserPasswordStepsEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T21:51:18.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GoalCrackPosition.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\GoalCrack\\GoalCrackPosition.cs",
+              "RelativeDocumentMoniker": "Entities\\GoalCrack\\GoalCrackPosition.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\GoalCrack\\GoalCrackPosition.cs",
+              "RelativeToolTip": "Entities\\GoalCrack\\GoalCrackPosition.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T18:39:36.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GoalCrackResult.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\GoalCrack\\GoalCrackResult.cs",
+              "RelativeDocumentMoniker": "Entities\\GoalCrack\\GoalCrackResult.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\GoalCrack\\GoalCrackResult.cs",
+              "RelativeToolTip": "Entities\\GoalCrack\\GoalCrackResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T21:10:08.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GoalCrackCockOwner.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\GoalCrack\\GoalCrackCockOwner.cs",
+              "RelativeDocumentMoniker": "Entities\\GoalCrack\\GoalCrackCockOwner.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\GoalCrack\\GoalCrackCockOwner.cs",
+              "RelativeToolTip": "Entities\\GoalCrack\\GoalCrackCockOwner.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T20:41:40.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Team.cs",
+              "RelativeDocumentMoniker": "Entities\\Team.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Team.cs",
+              "RelativeToolTip": "Entities\\Team.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwCUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:08:53.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "S23SConfigEnum.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\S23SConfigEnum.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\S23SConfigEnum.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\S23SConfigEnum.cs",
+              "RelativeToolTip": "Entities\\Enums\\S23SConfigEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:48:42.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MailServer.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Services\\MailServer.cs",
+              "RelativeDocumentMoniker": "Entities\\Services\\MailServer.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Services\\MailServer.cs",
+              "RelativeToolTip": "Entities\\Services\\MailServer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T03:47:04.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SysConfig.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\SysConfig.cs",
+              "RelativeDocumentMoniker": "Entities\\SysConfig.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\SysConfig.cs",
+              "RelativeToolTip": "Entities\\SysConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T03:06:59.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "MailData.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Services\\MailData.cs",
+              "RelativeDocumentMoniker": "Entities\\Services\\MailData.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Services\\MailData.cs",
+              "RelativeToolTip": "Entities\\Services\\MailData.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwCUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T01:11:38.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fixture.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Fixture.cs",
+              "RelativeDocumentMoniker": "Entities\\Fixture.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Fixture.cs",
+              "RelativeToolTip": "Entities\\Fixture.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAUwKQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:53:41.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "S23TeamAnotationEnum.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\S23TeamAnotationEnum.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\S23TeamAnotationEnum.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\S23TeamAnotationEnum.cs",
+              "RelativeToolTip": "Entities\\Enums\\S23TeamAnotationEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T18:51:46.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "S23SGenderEnum.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\S23SGenderEnum.cs",
+              "RelativeDocumentMoniker": "Entities\\Enums\\S23SGenderEnum.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\Enums\\S23SGenderEnum.cs",
+              "RelativeToolTip": "Entities\\Enums\\S23SGenderEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T23:35:38.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\User.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\User.cs",
+              "RelativeToolTip": "Entities\\User.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAA6wGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T17:32:44.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ClientUser.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\ClientUser.cs",
+              "RelativeDocumentMoniker": "Entities\\ClientUser.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\ClientUser.cs",
+              "RelativeToolTip": "Entities\\ClientUser.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-11T16:23:37.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GoalCrackCockRegister.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\GoalCrack\\GoalCrackCockRegister.cs",
+              "RelativeDocumentMoniker": "Entities\\GoalCrack\\GoalCrackCockRegister.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Entities\\Entities\\Entities\\GoalCrack\\GoalCrackCockRegister.cs",
+              "RelativeToolTip": "Entities\\GoalCrack\\GoalCrackCockRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T13:40:28.367Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

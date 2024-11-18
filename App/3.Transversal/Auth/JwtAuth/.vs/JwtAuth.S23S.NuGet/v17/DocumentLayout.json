@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Auth\\JwtAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60BABE14-A3FF-41B3-BAB3-3278D3362C84}|JwtAuth\\JwtAuth.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\auth\\jwtauth\\jwtauth\\jwtlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60BABE14-A3FF-41B3-BAB3-3278D3362C84}|JwtAuth\\JwtAuth.S23S.NuGet.csproj|solutionrelative:jwtauth\\jwtlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JwtLogin.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Auth\\JwtAuth\\JwtAuth\\JwtLogin.cs",
+              "RelativeDocumentMoniker": "JwtAuth\\JwtLogin.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Auth\\JwtAuth\\JwtAuth\\JwtLogin.cs",
+              "RelativeToolTip": "JwtAuth\\JwtLogin.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T22:15:40.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

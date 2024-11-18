@@ -1,0 +1,17 @@
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Auth\JwtAuth\JwtAuth\bin\Release\net6.0\JwtAuth.Colmena.NuGet.deps.json
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Auth\JwtAuth\JwtAuth\bin\Release\net6.0\JwtAuth.Colmena.NuGet.dll
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Auth\JwtAuth\JwtAuth\bin\Release\net6.0\JwtAuth.Colmena.NuGet.pdb
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Auth\JwtAuth\JwtAuth\bin\Release\net6.0\Entities.Colmena.NuGet.dll
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Auth\JwtAuth\JwtAuth\bin\Release\net6.0\Transversal.Entities.Colmena.dll
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Auth\JwtAuth\JwtAuth\bin\Release\net6.0\Entities.Colmena.NuGet.pdb
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Auth\JwtAuth\JwtAuth\bin\Release\net6.0\Transversal.Entities.Colmena.pdb
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Auth\JwtAuth\JwtAuth\obj\Release\net6.0\JwtAuth.Colmena.NuGet.csproj.AssemblyReference.cache
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Auth\JwtAuth\JwtAuth\obj\Release\net6.0\JwtAuth.Colmena.NuGet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Auth\JwtAuth\JwtAuth\obj\Release\net6.0\JwtAuth.Colmena.NuGet.AssemblyInfoInputs.cache
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Auth\JwtAuth\JwtAuth\obj\Release\net6.0\JwtAuth.Colmena.NuGet.AssemblyInfo.cs
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Auth\JwtAuth\JwtAuth\obj\Release\net6.0\JwtAuth.Colmena.NuGet.csproj.CoreCompileInputs.cache
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Auth\JwtAuth\JwtAuth\obj\Release\net6.0\JwtAuth..7AA289CC.Up2Date
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Auth\JwtAuth\JwtAuth\obj\Release\net6.0\JwtAuth.Colmena.NuGet.dll
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Auth\JwtAuth\JwtAuth\obj\Release\net6.0\refint\JwtAuth.Colmena.NuGet.dll
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Auth\JwtAuth\JwtAuth\obj\Release\net6.0\JwtAuth.Colmena.NuGet.pdb
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Auth\JwtAuth\JwtAuth\obj\Release\net6.0\ref\JwtAuth.Colmena.NuGet.dll

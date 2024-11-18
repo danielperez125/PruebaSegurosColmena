@@ -1,0 +1,318 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\2.Business\\Users\\Business.Users.Colmena.csproj": {}
+  },
+  "projects": {
+    "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\2.Business\\Users\\Business.Users.Colmena.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\2.Business\\Users\\Business.Users.Colmena.csproj",
+        "projectName": "Business.Users.Colmena",
+        "projectPath": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\2.Business\\Users\\Business.Users.Colmena.csproj",
+        "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\2.Business\\Users\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Proyectos\\PruebaSegurosColmena\\App\\4.ColmenaLocalNuGets": {},
+          "C:\\Proyectos\\S23Sports\\Dev\\App\\4.S23SLocalNuGets": {},
+          "C:\\Users\\DANIEL\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\Users\\Data.Users.Colmena.csproj": {
+                "projectPath": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\Users\\Data.Users.Colmena.csproj"
+              },
+              "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\UserTypes\\Data.UserTypes.Colmena.csproj": {
+                "projectPath": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\UserTypes\\Data.UserTypes.Colmena.csproj"
+              },
+              "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\4.Transversal\\Transversal.Entities.Colmena.csproj": {
+                "projectPath": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\4.Transversal\\Transversal.Entities.Colmena.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Utils.Colmena.NuGet": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\Users\\Data.Users.Colmena.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\Users\\Data.Users.Colmena.csproj",
+        "projectName": "Data.Users.Colmena",
+        "projectPath": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\Users\\Data.Users.Colmena.csproj",
+        "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\Users\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Proyectos\\PruebaSegurosColmena\\App\\4.ColmenaLocalNuGets": {},
+          "C:\\Proyectos\\S23Sports\\Dev\\App\\4.S23SLocalNuGets": {},
+          "C:\\Users\\DANIEL\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\4.Transversal\\Transversal.Entities.Colmena.csproj": {
+                "projectPath": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\4.Transversal\\Transversal.Entities.Colmena.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MYSQLConnector.Colmena.NuGet": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Utils.Colmena.NuGet": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\UserTypes\\Data.UserTypes.Colmena.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\UserTypes\\Data.UserTypes.Colmena.csproj",
+        "projectName": "Data.UserTypes.Colmena",
+        "projectPath": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\UserTypes\\Data.UserTypes.Colmena.csproj",
+        "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\UserTypes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Proyectos\\PruebaSegurosColmena\\App\\4.ColmenaLocalNuGets": {},
+          "C:\\Proyectos\\S23Sports\\Dev\\App\\4.S23SLocalNuGets": {},
+          "C:\\Users\\DANIEL\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\4.Transversal\\Transversal.Entities.Colmena.csproj": {
+                "projectPath": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\4.Transversal\\Transversal.Entities.Colmena.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MYSQLConnector.Colmena.NuGet": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Utils.Colmena.NuGet": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\4.Transversal\\Transversal.Entities.Colmena.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\4.Transversal\\Transversal.Entities.Colmena.csproj",
+        "projectName": "Transversal.Entities.Colmena",
+        "projectPath": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\4.Transversal\\Transversal.Entities.Colmena.csproj",
+        "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\4.Transversal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Proyectos\\PruebaSegurosColmena\\App\\4.ColmenaLocalNuGets": {},
+          "C:\\Proyectos\\S23Sports\\Dev\\App\\4.S23SLocalNuGets": {},
+          "C:\\Users\\DANIEL\\.nuget\\packages": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Utils.Colmena.NuGet": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

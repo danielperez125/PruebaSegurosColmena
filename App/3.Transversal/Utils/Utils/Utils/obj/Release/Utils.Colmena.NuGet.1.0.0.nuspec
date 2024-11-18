@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Utils.Colmena.NuGet</id>
+    <version>1.0.0</version>
+    <authors>Utils.Prueba.Colmena</authors>
+    <icon>iconoColmenaNuGet.png</icon>
+    <description>Colmena Seguros paquete de utilidades</description>
+    <releaseNotes>Utils Package</releaseNotes>
+    <copyright>Colmena_DanielPerez</copyright>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0/iconoColmena.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Utils\Utils\Utils\bin\Release\net6.0\Utils.Colmena.NuGet.dll" target="lib\net6.0\Utils.Colmena.NuGet.dll" />
+    <file src="C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Utils\Utils\Utils\iconoColmena.ico" target="content\iconoColmena.ico" />
+    <file src="C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Utils\Utils\Utils\iconoColmena.ico" target="contentFiles\any\net6.0\iconoColmena.ico" />
+    <file src="C:\Proyectos\PruebaSegurosColmena\Sources\iconoColmenaNuGet.png" target="\iconoColmenaNuGet.png" />
+  </files>
+</package>

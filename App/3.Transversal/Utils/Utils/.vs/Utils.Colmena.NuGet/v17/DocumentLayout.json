@@ -1,0 +1,99 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Utils\\Utils\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFBE040-319F-46B8-87C3-2B464E202E01}|Utils\\Utils.Colmena.NuGet.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\3.transversal\\utils\\utils\\utils\\utils.colmena.nuget.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8AFBE040-319F-46B8-87C3-2B464E202E01}|Utils\\Utils.Colmena.NuGet.csproj|solutionrelative:utils\\utils.colmena.nuget.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFBE040-319F-46B8-87C3-2B464E202E01}|Utils\\Utils.Colmena.NuGet.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\3.transversal\\utils\\utils\\utils\\cipher\\cipheraes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFBE040-319F-46B8-87C3-2B464E202E01}|Utils\\Utils.Colmena.NuGet.csproj|solutionrelative:utils\\cipher\\cipheraes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFBE040-319F-46B8-87C3-2B464E202E01}|Utils\\Utils.Colmena.NuGet.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\3.transversal\\utils\\utils\\utils\\response\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFBE040-319F-46B8-87C3-2B464E202E01}|Utils\\Utils.Colmena.NuGet.csproj|solutionrelative:utils\\response\\apiresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AFBE040-319F-46B8-87C3-2B464E202E01}|Utils\\Utils.Colmena.NuGet.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\3.transversal\\utils\\utils\\utils\\response\\stateoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AFBE040-319F-46B8-87C3-2B464E202E01}|Utils\\Utils.Colmena.NuGet.csproj|solutionrelative:utils\\response\\stateoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utils.Colmena.NuGet",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Utils\\Utils\\Utils\\Utils.Colmena.NuGet.csproj",
+              "RelativeDocumentMoniker": "Utils\\Utils.Colmena.NuGet.csproj",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Utils\\Utils\\Utils\\Utils.Colmena.NuGet.csproj",
+              "RelativeToolTip": "Utils\\Utils.Colmena.NuGet.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-18T02:19:58.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StateOperations.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Utils\\Utils\\Utils\\Response\\StateOperations.cs",
+              "RelativeDocumentMoniker": "Utils\\Response\\StateOperations.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Utils\\Utils\\Utils\\Response\\StateOperations.cs",
+              "RelativeToolTip": "Utils\\Response\\StateOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:57:56.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApiResult.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Utils\\Utils\\Utils\\Response\\ApiResult.cs",
+              "RelativeDocumentMoniker": "Utils\\Response\\ApiResult.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Utils\\Utils\\Utils\\Response\\ApiResult.cs",
+              "RelativeToolTip": "Utils\\Response\\ApiResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:57:42.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CipherAES.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Utils\\Utils\\Utils\\Cipher\\CipherAES.cs",
+              "RelativeDocumentMoniker": "Utils\\Cipher\\CipherAES.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Utils\\Utils\\Utils\\Cipher\\CipherAES.cs",
+              "RelativeToolTip": "Utils\\Cipher\\CipherAES.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T21:56:16.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

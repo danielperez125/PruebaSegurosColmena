@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\S23S.API.props" />
+</Project>

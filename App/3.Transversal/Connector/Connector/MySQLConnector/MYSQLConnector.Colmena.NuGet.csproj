@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Authors>MYSQLConnector.Prueba.Colmena</Authors>
+    <Company>PruebaColmenaSeguros</Company>
+    <Description>Colmena Seguros ORM MySql</Description>
+    <Copyright>Colmena_DanielPerez</Copyright>
+    <Version>1.0.2</Version>
+    <PackageReleaseNotes>MYSQLConnector initial version</PackageReleaseNotes>
+    <PackageIcon>iconoColmenaNuGet.png</PackageIcon>
+    <ApplicationIcon>iconoColmena.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="iconoColmena.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\..\Sources\iconoColmenaNuGet.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MySqlConnector" Version="2.2.6" />
+    <PackageReference Include="Utils.Colmena.NuGet" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>

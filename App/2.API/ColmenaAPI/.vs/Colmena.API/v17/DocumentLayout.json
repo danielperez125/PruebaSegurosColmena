@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F45E0C2A-AC54-404A-A21D-0812B086663A}|2.Business\\Users\\Business.Users.Colmena.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\2.api\\colmenaapi\\2.business\\users\\businessusercreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F45E0C2A-AC54-404A-A21D-0812B086663A}|2.Business\\Users\\Business.Users.Colmena.csproj|solutionrelative:2.business\\users\\businessusercreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891BB21A-E588-48FF-A68E-699BE9516014}|3.Data\\Users\\Data.Users.Colmena.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\2.api\\colmenaapi\\3.data\\users\\datauserupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891BB21A-E588-48FF-A68E-699BE9516014}|3.Data\\Users\\Data.Users.Colmena.csproj|solutionrelative:3.data\\users\\datauserupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891BB21A-E588-48FF-A68E-699BE9516014}|3.Data\\Users\\Data.Users.Colmena.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\2.api\\colmenaapi\\3.data\\users\\datausercreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891BB21A-E588-48FF-A68E-699BE9516014}|3.Data\\Users\\Data.Users.Colmena.csproj|solutionrelative:3.data\\users\\datausercreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{742D6CBD-0798-4D30-9093-53E0530DE4E4}|3.Data\\Products\\Data.Products.Colmena.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\2.api\\colmenaapi\\3.data\\products\\dataproductget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{742D6CBD-0798-4D30-9093-53E0530DE4E4}|3.Data\\Products\\Data.Products.Colmena.csproj|solutionrelative:3.data\\products\\dataproductget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C2B9A7-A0A3-47EF-9269-6C8C82B9C65F}|1.Web\\Colmena.API.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\2.api\\colmenaapi\\1.web\\controllers\\products\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C2B9A7-A0A3-47EF-9269-6C8C82B9C65F}|1.Web\\Colmena.API.csproj|solutionrelative:1.web\\controllers\\products\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C2B9A7-A0A3-47EF-9269-6C8C82B9C65F}|1.Web\\Colmena.API.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\2.api\\colmenaapi\\1.web\\controllers\\users\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C2B9A7-A0A3-47EF-9269-6C8C82B9C65F}|1.Web\\Colmena.API.csproj|solutionrelative:1.web\\controllers\\users\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C2B9A7-A0A3-47EF-9269-6C8C82B9C65F}|1.Web\\Colmena.API.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\2.api\\colmenaapi\\1.web\\controllers\\quotes\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C2B9A7-A0A3-47EF-9269-6C8C82B9C65F}|1.Web\\Colmena.API.csproj|solutionrelative:1.web\\controllers\\quotes\\quotecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C2B9A7-A0A3-47EF-9269-6C8C82B9C65F}|1.Web\\Colmena.API.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\2.api\\colmenaapi\\1.web\\claimsvalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C2B9A7-A0A3-47EF-9269-6C8C82B9C65F}|1.Web\\Colmena.API.csproj|solutionrelative:1.web\\claimsvalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62D858DC-9824-4188-9C4A-97746BE67D9E}|2.Business\\Login\\Business.Login.Colmena.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\2.api\\colmenaapi\\2.business\\login\\businessloginget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62D858DC-9824-4188-9C4A-97746BE67D9E}|2.Business\\Login\\Business.Login.Colmena.csproj|solutionrelative:2.business\\login\\businessloginget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4F443C-1C51-4DF7-98CD-F64333B6191D}|3.Data\\Login\\Data.Login.Colmena.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\2.api\\colmenaapi\\3.data\\login\\dataloginget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4F443C-1C51-4DF7-98CD-F64333B6191D}|3.Data\\Login\\Data.Login.Colmena.csproj|solutionrelative:3.data\\login\\dataloginget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891BB21A-E588-48FF-A68E-699BE9516014}|3.Data\\Users\\Data.Users.Colmena.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\2.api\\colmenaapi\\3.data\\users\\datauserget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891BB21A-E588-48FF-A68E-699BE9516014}|3.Data\\Users\\Data.Users.Colmena.csproj|solutionrelative:3.data\\users\\datauserget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{891BB21A-E588-48FF-A68E-699BE9516014}|3.Data\\Users\\Data.Users.Colmena.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\2.api\\colmenaapi\\3.data\\users\\mappers\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{891BB21A-E588-48FF-A68E-699BE9516014}|3.Data\\Users\\Data.Users.Colmena.csproj|solutionrelative:3.data\\users\\mappers\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9691B349-8204-452F-8743-333D4BAE7689}|2.Business\\Quotes\\Business.Quotes.Colmena.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\2.api\\colmenaapi\\2.business\\quotes\\businessquotecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9691B349-8204-452F-8743-333D4BAE7689}|2.Business\\Quotes\\Business.Quotes.Colmena.csproj|solutionrelative:2.business\\quotes\\businessquotecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9360672-7C69-464A-BA9D-A09E31726BE1}|3.Data\\Quotes\\Data.Quotes.Colmena.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\2.api\\colmenaapi\\3.data\\quotes\\dataquoteget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9360672-7C69-464A-BA9D-A09E31726BE1}|3.Data\\Quotes\\Data.Quotes.Colmena.csproj|solutionrelative:3.data\\quotes\\dataquoteget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9691B349-8204-452F-8743-333D4BAE7689}|2.Business\\Quotes\\Business.Quotes.Colmena.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\2.api\\colmenaapi\\2.business\\quotes\\businessquoteget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9691B349-8204-452F-8743-333D4BAE7689}|2.Business\\Quotes\\Business.Quotes.Colmena.csproj|solutionrelative:2.business\\quotes\\businessquoteget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9691B349-8204-452F-8743-333D4BAE7689}|2.Business\\Quotes\\Business.Quotes.Colmena.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\2.api\\colmenaapi\\2.business\\quotes\\businessquoteupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9691B349-8204-452F-8743-333D4BAE7689}|2.Business\\Quotes\\Business.Quotes.Colmena.csproj|solutionrelative:2.business\\quotes\\businessquoteupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BusinessUserCreate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\2.Business\\Users\\BusinessUserCreate.cs",
+              "RelativeDocumentMoniker": "2.Business\\Users\\BusinessUserCreate.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\2.Business\\Users\\BusinessUserCreate.cs",
+              "RelativeToolTip": "2.Business\\Users\\BusinessUserCreate.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:22:28.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataUserUpdate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\Users\\DataUserUpdate.cs",
+              "RelativeDocumentMoniker": "3.Data\\Users\\DataUserUpdate.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\Users\\DataUserUpdate.cs",
+              "RelativeToolTip": "3.Data\\Users\\DataUserUpdate.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwDMAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:21:45.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataUserCreate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\Users\\DataUserCreate.cs",
+              "RelativeDocumentMoniker": "3.Data\\Users\\DataUserCreate.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\Users\\DataUserCreate.cs",
+              "RelativeToolTip": "3.Data\\Users\\DataUserCreate.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwD4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:20:42.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\Users\\Mappers\\User.cs",
+              "RelativeDocumentMoniker": "3.Data\\Users\\Mappers\\User.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\Users\\Mappers\\User.cs",
+              "RelativeToolTip": "3.Data\\Users\\Mappers\\User.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAApwB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:31:59.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataUserGet.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\Users\\DataUserGet.cs",
+              "RelativeDocumentMoniker": "3.Data\\Users\\DataUserGet.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\Users\\DataUserGet.cs",
+              "RelativeToolTip": "3.Data\\Users\\DataUserGet.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAkwGkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:31:17.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\1.Web\\Controllers\\Users\\UserController.cs",
+              "RelativeDocumentMoniker": "1.Web\\Controllers\\Users\\UserController.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\1.Web\\Controllers\\Users\\UserController.cs",
+              "RelativeToolTip": "1.Web\\Controllers\\Users\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:39:17.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QuoteController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\1.Web\\Controllers\\Quotes\\QuoteController.cs",
+              "RelativeDocumentMoniker": "1.Web\\Controllers\\Quotes\\QuoteController.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\1.Web\\Controllers\\Quotes\\QuoteController.cs",
+              "RelativeToolTip": "1.Web\\Controllers\\Quotes\\QuoteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:39:09.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClaimsValidate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\1.Web\\ClaimsValidate.cs",
+              "RelativeDocumentMoniker": "1.Web\\ClaimsValidate.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\1.Web\\ClaimsValidate.cs",
+              "RelativeToolTip": "1.Web\\ClaimsValidate.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwFAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:18:50.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataProductGet.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\Products\\DataProductGet.cs",
+              "RelativeDocumentMoniker": "3.Data\\Products\\DataProductGet.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\Products\\DataProductGet.cs",
+              "RelativeToolTip": "3.Data\\Products\\DataProductGet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:13:36.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataLoginGet.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\Login\\DataLoginGet.cs",
+              "RelativeDocumentMoniker": "3.Data\\Login\\DataLoginGet.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\Login\\DataLoginGet.cs",
+              "RelativeToolTip": "3.Data\\Login\\DataLoginGet.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwEQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:35:30.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BusinessLoginGet.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\2.Business\\Login\\BusinessLoginGet.cs",
+              "RelativeDocumentMoniker": "2.Business\\Login\\BusinessLoginGet.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\2.Business\\Login\\BusinessLoginGet.cs",
+              "RelativeToolTip": "2.Business\\Login\\BusinessLoginGet.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:46:33.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\1.Web\\Controllers\\Products\\ProductController.cs",
+              "RelativeDocumentMoniker": "1.Web\\Controllers\\Products\\ProductController.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\1.Web\\Controllers\\Products\\ProductController.cs",
+              "RelativeToolTip": "1.Web\\Controllers\\Products\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:33:35.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataQuoteGet.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\Quotes\\DataQuoteGet.cs",
+              "RelativeDocumentMoniker": "3.Data\\Quotes\\DataQuoteGet.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\Quotes\\DataQuoteGet.cs",
+              "RelativeToolTip": "3.Data\\Quotes\\DataQuoteGet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:28:49.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BusinessQuoteUpdate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\2.Business\\Quotes\\BusinessQuoteUpdate.cs",
+              "RelativeDocumentMoniker": "2.Business\\Quotes\\BusinessQuoteUpdate.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\2.Business\\Quotes\\BusinessQuoteUpdate.cs",
+              "RelativeToolTip": "2.Business\\Quotes\\BusinessQuoteUpdate.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA1wD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:01:35.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BusinessQuoteGet.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\2.Business\\Quotes\\BusinessQuoteGet.cs",
+              "RelativeDocumentMoniker": "2.Business\\Quotes\\BusinessQuoteGet.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\2.Business\\Quotes\\BusinessQuoteGet.cs",
+              "RelativeToolTip": "2.Business\\Quotes\\BusinessQuoteGet.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBJwA0AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:01:30.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BusinessQuoteCreate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\2.Business\\Quotes\\BusinessQuoteCreate.cs",
+              "RelativeDocumentMoniker": "2.Business\\Quotes\\BusinessQuoteCreate.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\2.Business\\Quotes\\BusinessQuoteCreate.cs",
+              "RelativeToolTip": "2.Business\\Quotes\\BusinessQuoteCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:01:21.853Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

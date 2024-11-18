@@ -1,0 +1,16 @@
+C:\Proyectos\PruebaSegurosColmena\App\2.API\ColmenaAPI\4.Transversal\bin\Debug\net6.0\Transversal.Entities.Colmena.deps.json
+C:\Proyectos\PruebaSegurosColmena\App\2.API\ColmenaAPI\4.Transversal\bin\Debug\net6.0\Transversal.Entities.Colmena.dll
+C:\Proyectos\PruebaSegurosColmena\App\2.API\ColmenaAPI\4.Transversal\bin\Debug\net6.0\Transversal.Entities.Colmena.pdb
+C:\Proyectos\PruebaSegurosColmena\App\2.API\ColmenaAPI\4.Transversal\bin\Debug\net6.0\Entities.Colmena.NuGet.dll
+C:\Proyectos\PruebaSegurosColmena\App\2.API\ColmenaAPI\4.Transversal\bin\Debug\net6.0\Entities.Colmena.NuGet.pdb
+C:\Proyectos\PruebaSegurosColmena\App\2.API\ColmenaAPI\4.Transversal\obj\Debug\net6.0\Transversal.Entities.Colmena.csproj.AssemblyReference.cache
+C:\Proyectos\PruebaSegurosColmena\App\2.API\ColmenaAPI\4.Transversal\obj\Debug\net6.0\Transversal.Entities.Colmena.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\PruebaSegurosColmena\App\2.API\ColmenaAPI\4.Transversal\obj\Debug\net6.0\Transversal.Entities.Colmena.AssemblyInfoInputs.cache
+C:\Proyectos\PruebaSegurosColmena\App\2.API\ColmenaAPI\4.Transversal\obj\Debug\net6.0\Transversal.Entities.Colmena.AssemblyInfo.cs
+C:\Proyectos\PruebaSegurosColmena\App\2.API\ColmenaAPI\4.Transversal\obj\Debug\net6.0\Transversal.Entities.Colmena.csproj.CoreCompileInputs.cache
+C:\Proyectos\PruebaSegurosColmena\App\2.API\ColmenaAPI\4.Transversal\obj\Debug\net6.0\Transver.3AFC2FDD.Up2Date
+C:\Proyectos\PruebaSegurosColmena\App\2.API\ColmenaAPI\4.Transversal\obj\Debug\net6.0\Transversal.Entities.Colmena.dll
+C:\Proyectos\PruebaSegurosColmena\App\2.API\ColmenaAPI\4.Transversal\obj\Debug\net6.0\refint\Transversal.Entities.Colmena.dll
+C:\Proyectos\PruebaSegurosColmena\App\2.API\ColmenaAPI\4.Transversal\obj\Debug\net6.0\Transversal.Entities.Colmena.pdb
+C:\Proyectos\PruebaSegurosColmena\App\2.API\ColmenaAPI\4.Transversal\obj\Debug\net6.0\ref\Transversal.Entities.Colmena.dll
+C:\Proyectos\PruebaSegurosColmena\App\2.API\ColmenaAPI\4.Transversal\obj\Debug\net6.0\Transversal.Entities.Colmena.sourcelink.json

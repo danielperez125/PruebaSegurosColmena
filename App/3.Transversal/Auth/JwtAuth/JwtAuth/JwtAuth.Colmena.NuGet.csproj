@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Authors>Auth.Prueba.Colmena</Authors>
+    <Company>PruebaColmenaSeguros</Company>
+    <Description>Colmena Seguros paquete de autenticación JWT</Description>
+    <Copyright>Colmena_DanielPerez</Copyright>
+    <Version>1.0.3</Version>
+    <PackageReleaseNotes></PackageReleaseNotes>
+    <PackageIcon>iconoColmenaNuGet.png</PackageIcon>
+    <ApplicationIcon>iconoColmena.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="iconoColmena.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\..\Sources\iconoColmenaNuGet.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="5.2.1" />
+    <PackageReference Include="Utils.Colmena.NuGet" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Entities.Colmena.NuGet">
+      <HintPath>..\..\..\Entities\Entities\Entities\bin\Release\net6.0\Entities.Colmena.NuGet.dll</HintPath>
+    </Reference>
+    <Reference Include="Transversal.Entities.Colmena">
+      <HintPath>..\..\..\..\2.API\ColmenaAPI\4.Transversal\bin\Debug\net6.0\Transversal.Entities.Colmena.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

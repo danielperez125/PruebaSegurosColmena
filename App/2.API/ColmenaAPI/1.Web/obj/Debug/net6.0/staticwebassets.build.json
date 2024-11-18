@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rp3JP2cRdKrkeNKEm5X+A7hWPHUFBf/MmELi5+Dfp30=",
+  "Source": "Colmena.API",
+  "BasePath": "_content/Colmena.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

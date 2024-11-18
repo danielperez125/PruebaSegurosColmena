@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Entities.S23S.NuGet/1.0.1": {
+        "runtime": {
+          "Entities.S23S.NuGet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Entities.S23S.NuGet/1.0.1": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

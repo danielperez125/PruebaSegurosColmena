@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8+QWwF44kXs=",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Connector\\Connector\\MySQLConnector\\MYSQLConnector.Colmena.NuGet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DANIEL\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512",
+    "C:\\Users\\DANIEL\\.nuget\\packages\\utils.colmena.nuget\\1.0.0\\utils.colmena.nuget.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
