@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bLtaI9BVEzo=",
+  "success": true,
+  "projectFilePath": "C:\\Proyectos\\PruebaSegurosColmena\\App\\2.API\\ColmenaAPI\\3.Data\\UserTypes\\Data.UserTypes.Colmena.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DANIEL\\.nuget\\packages\\mysqlconnector\\2.2.6\\mysqlconnector.2.2.6.nupkg.sha512",
+    "C:\\Users\\DANIEL\\.nuget\\packages\\mysqlconnector.colmena.nuget\\1.0.2\\mysqlconnector.colmena.nuget.1.0.2.nupkg.sha512",
+    "C:\\Users\\DANIEL\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\DANIEL\\.nuget\\packages\\utils.colmena.nuget\\1.0.0\\utils.colmena.nuget.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

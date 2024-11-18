@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MYSQLConnector.Colmena.NuGet</id>
+    <version>1.0.1</version>
+    <authors>MYSQLConnector.Prueba.Colmena</authors>
+    <icon>iconoColmenaNuGet.png</icon>
+    <description>Colmena Seguros ORM MySql</description>
+    <releaseNotes>MYSQLConnector initial version</releaseNotes>
+    <copyright>Colmena_DanielPerez</copyright>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="MySqlConnector" version="2.2.6" exclude="Build,Analyzers" />
+        <dependency id="Utils.Colmena.NuGet" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0/iconoColmena.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Connector\Connector\MySQLConnector\bin\Release\net6.0\MYSQLConnector.Colmena.NuGet.dll" target="lib\net6.0\MYSQLConnector.Colmena.NuGet.dll" />
+    <file src="C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Connector\Connector\MySQLConnector\iconoColmena.ico" target="content\iconoColmena.ico" />
+    <file src="C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Connector\Connector\MySQLConnector\iconoColmena.ico" target="contentFiles\any\net6.0\iconoColmena.ico" />
+    <file src="C:\Proyectos\PruebaSegurosColmena\Sources\iconoColmenaNuGet.png" target="\iconoColmenaNuGet.png" />
+  </files>
+</package>

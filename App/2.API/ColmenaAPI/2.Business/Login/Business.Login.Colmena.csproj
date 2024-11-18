@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="JwtAuth.Colmena.NuGet" Version="1.0.3" />
+    <PackageReference Include="Utils.Colmena.NuGet" Version="1.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\3.Data\Login\Data.Login.Colmena.csproj" />
+    <ProjectReference Include="..\..\4.Transversal\Transversal.Entities.Colmena.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Entities.Colmena.NuGet">
+      <HintPath>..\..\..\..\3.Transversal\Entities\Entities\Entities\bin\Release\net6.0\Entities.Colmena.NuGet.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

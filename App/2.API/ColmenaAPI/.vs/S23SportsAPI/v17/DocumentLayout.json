@@ -1,0 +1,721 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35E14E88-F0C3-4110-880F-F09943EA4145}|1.Web\\S23S.API.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\1.web\\controllers\\fixtures\\fixturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E14E88-F0C3-4110-880F-F09943EA4145}|1.Web\\S23S.API.csproj|solutionrelative:1.web\\controllers\\fixtures\\fixturecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E14E88-F0C3-4110-880F-F09943EA4145}|1.Web\\S23S.API.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\1.web\\controllers\\championshipplaygroups\\championshipplaygroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E14E88-F0C3-4110-880F-F09943EA4145}|1.Web\\S23S.API.csproj|solutionrelative:1.web\\controllers\\championshipplaygroups\\championshipplaygroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0990AE56-F0C9-4383-BF44-D870F21563DB}|3.Data\\Teams\\Data.Teams.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\3.data\\teams\\datateamget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0990AE56-F0C9-4383-BF44-D870F21563DB}|3.Data\\Teams\\Data.Teams.S23S.csproj|solutionrelative:3.data\\teams\\datateamget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79299B9-E13A-4F4F-B865-A82E9CD8EF69}|2.Business\\Teams\\Business.Teams.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\teams\\businessteamupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79299B9-E13A-4F4F-B865-A82E9CD8EF69}|2.Business\\Teams\\Business.Teams.S23S.csproj|solutionrelative:2.business\\teams\\businessteamupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B79299B9-E13A-4F4F-B865-A82E9CD8EF69}|2.Business\\Teams\\Business.Teams.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\teams\\businessteamcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B79299B9-E13A-4F4F-B865-A82E9CD8EF69}|2.Business\\Teams\\Business.Teams.S23S.csproj|solutionrelative:2.business\\teams\\businessteamcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF0A6A8-AAEC-4C7F-9679-53D810546F08}|3.Data\\ChampionshipPlayGroups\\Data.ChampionshipPlayGroups.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\3.data\\championshipplaygroups\\datachampionshipplaygroupget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAF0A6A8-AAEC-4C7F-9679-53D810546F08}|3.Data\\ChampionshipPlayGroups\\Data.ChampionshipPlayGroups.S23S.csproj|solutionrelative:3.data\\championshipplaygroups\\datachampionshipplaygroupget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAC01EE-2D7A-4326-AFE4-CCF9A2D2003D}|2.Business\\ChampionshipPlayGroups\\Business.ChampionshipPlayGroups.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\championshipplaygroups\\businesschampionshipplaygroupupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAC01EE-2D7A-4326-AFE4-CCF9A2D2003D}|2.Business\\ChampionshipPlayGroups\\Business.ChampionshipPlayGroups.S23S.csproj|solutionrelative:2.business\\championshipplaygroups\\businesschampionshipplaygroupupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBAC01EE-2D7A-4326-AFE4-CCF9A2D2003D}|2.Business\\ChampionshipPlayGroups\\Business.ChampionshipPlayGroups.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\championshipplaygroups\\businesschampionshipplaygroupcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBAC01EE-2D7A-4326-AFE4-CCF9A2D2003D}|2.Business\\ChampionshipPlayGroups\\Business.ChampionshipPlayGroups.S23S.csproj|solutionrelative:2.business\\championshipplaygroups\\businesschampionshipplaygroupcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58737FC-F8EA-49BA-A5D7-90941DAE4368}|2.Business\\Fixtures\\Business.Fixtures.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\fixtures\\businessmatchreschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58737FC-F8EA-49BA-A5D7-90941DAE4368}|2.Business\\Fixtures\\Business.Fixtures.S23S.csproj|solutionrelative:2.business\\fixtures\\businessmatchreschedule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC83E94-CAD2-4C53-A9FE-89CB3E379F8E}|2.Business\\ChampionshipPlay\\Business.ChampionshipPlays.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\championshipplay\\businesschampionshipplaysupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC83E94-CAD2-4C53-A9FE-89CB3E379F8E}|2.Business\\ChampionshipPlay\\Business.ChampionshipPlays.S23S.csproj|solutionrelative:2.business\\championshipplay\\businesschampionshipplaysupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDC83E94-CAD2-4C53-A9FE-89CB3E379F8E}|2.Business\\ChampionshipPlay\\Business.ChampionshipPlays.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\championshipplay\\businesschampionshipplayscreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDC83E94-CAD2-4C53-A9FE-89CB3E379F8E}|2.Business\\ChampionshipPlay\\Business.ChampionshipPlays.S23S.csproj|solutionrelative:2.business\\championshipplay\\businesschampionshipplayscreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74330AF0-83C9-4FDF-9D07-D3A990988959}|3.Data\\ChampionshipPlay\\Data.ChampionshipPlays.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\3.data\\championshipplay\\datachampionshipplaysget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74330AF0-83C9-4FDF-9D07-D3A990988959}|3.Data\\ChampionshipPlay\\Data.ChampionshipPlays.S23S.csproj|solutionrelative:3.data\\championshipplay\\datachampionshipplaysget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40E9957-C241-4416-9C51-FD84A3DD75FE}|2.Business\\Championships\\Business.Championships.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\championships\\businesschampionshipupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40E9957-C241-4416-9C51-FD84A3DD75FE}|2.Business\\Championships\\Business.Championships.S23S.csproj|solutionrelative:2.business\\championships\\businesschampionshipupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74330AF0-83C9-4FDF-9D07-D3A990988959}|3.Data\\ChampionshipPlay\\Data.ChampionshipPlays.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\3.data\\championshipplay\\datachampionshipplaysupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74330AF0-83C9-4FDF-9D07-D3A990988959}|3.Data\\ChampionshipPlay\\Data.ChampionshipPlays.S23S.csproj|solutionrelative:3.data\\championshipplay\\datachampionshipplaysupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40E9957-C241-4416-9C51-FD84A3DD75FE}|2.Business\\Championships\\Business.Championships.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\championships\\businesschampionshipcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40E9957-C241-4416-9C51-FD84A3DD75FE}|2.Business\\Championships\\Business.Championships.S23S.csproj|solutionrelative:2.business\\championships\\businesschampionshipcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFCC8B25-462A-4820-8E91-85B45BDB25A6}|3.Data\\Championships\\Data.Championships.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\3.data\\championships\\datachampionshipget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFCC8B25-462A-4820-8E91-85B45BDB25A6}|3.Data\\Championships\\Data.Championships.S23S.csproj|solutionrelative:3.data\\championships\\datachampionshipget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDF9542C-DFC8-417C-A5A4-CF3324C172E6}|2.Business\\GoalCrack\\GoalCrackCockOwners\\Business.GoalCrackCockOwners.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\goalcrack\\goalcrackcockowners\\businessgoalcrackcockownerget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDF9542C-DFC8-417C-A5A4-CF3324C172E6}|2.Business\\GoalCrack\\GoalCrackCockOwners\\Business.GoalCrackCockOwners.S23S.csproj|solutionrelative:2.business\\goalcrack\\goalcrackcockowners\\businessgoalcrackcockownerget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4FCF39-1C2B-4BCF-BD19-430D30403BE6}|2.Business\\Users\\Business.Users.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\users\\businessuserget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4FCF39-1C2B-4BCF-BD19-430D30403BE6}|2.Business\\Users\\Business.Users.S23S.csproj|solutionrelative:2.business\\users\\businessuserget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E14E88-F0C3-4110-880F-F09943EA4145}|1.Web\\S23S.API.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\1.web\\controllers\\users\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E14E88-F0C3-4110-880F-F09943EA4145}|1.Web\\S23S.API.csproj|solutionrelative:1.web\\controllers\\users\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E14E88-F0C3-4110-880F-F09943EA4145}|1.Web\\S23S.API.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\1.web\\controllers\\championshiptypes\\championshiptypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E14E88-F0C3-4110-880F-F09943EA4145}|1.Web\\S23S.API.csproj|solutionrelative:1.web\\controllers\\championshiptypes\\championshiptypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E14E88-F0C3-4110-880F-F09943EA4145}|1.Web\\S23S.API.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\1.web\\controllers\\championships\\championshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E14E88-F0C3-4110-880F-F09943EA4145}|1.Web\\S23S.API.csproj|solutionrelative:1.web\\controllers\\championships\\championshipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909A573C-584F-4AFB-A222-BA96AB40E966}|2.Business\\Stages\\Business.Stages.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\stages\\businessstageupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909A573C-584F-4AFB-A222-BA96AB40E966}|2.Business\\Stages\\Business.Stages.S23S.csproj|solutionrelative:2.business\\stages\\businessstageupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909A573C-584F-4AFB-A222-BA96AB40E966}|2.Business\\Stages\\Business.Stages.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\stages\\businessstagecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909A573C-584F-4AFB-A222-BA96AB40E966}|2.Business\\Stages\\Business.Stages.S23S.csproj|solutionrelative:2.business\\stages\\businessstagecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67D33297-8A8D-4B0D-B22C-2BCB82DA0CFD}|2.Business\\Locations\\Business.Locations.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\locations\\businesslocationcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67D33297-8A8D-4B0D-B22C-2BCB82DA0CFD}|2.Business\\Locations\\Business.Locations.S23S.csproj|solutionrelative:2.business\\locations\\businesslocationcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6211268C-C221-46E6-B81D-94A64F02EDE7}|2.Business\\GroupMasters\\Business.GroupMasters.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\groupmasters\\businessgroupmasterupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6211268C-C221-46E6-B81D-94A64F02EDE7}|2.Business\\GroupMasters\\Business.GroupMasters.S23S.csproj|solutionrelative:2.business\\groupmasters\\businessgroupmasterupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6211268C-C221-46E6-B81D-94A64F02EDE7}|2.Business\\GroupMasters\\Business.GroupMasters.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\groupmasters\\businessgroupmastercreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6211268C-C221-46E6-B81D-94A64F02EDE7}|2.Business\\GroupMasters\\Business.GroupMasters.S23S.csproj|solutionrelative:2.business\\groupmasters\\businessgroupmastercreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F764546-CA35-46B1-9EEC-A6F9CBFC42FD}|2.Business\\Categories\\Business.Categories.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\categories\\businesscategorycreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F764546-CA35-46B1-9EEC-A6F9CBFC42FD}|2.Business\\Categories\\Business.Categories.S23S.csproj|solutionrelative:2.business\\categories\\businesscategorycreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58737FC-F8EA-49BA-A5D7-90941DAE4368}|2.Business\\Fixtures\\Business.Fixtures.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\fixtures\\businessfixtureautomaticgenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58737FC-F8EA-49BA-A5D7-90941DAE4368}|2.Business\\Fixtures\\Business.Fixtures.S23S.csproj|solutionrelative:2.business\\fixtures\\businessfixtureautomaticgenerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58737FC-F8EA-49BA-A5D7-90941DAE4368}|2.Business\\Fixtures\\Business.Fixtures.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\fixtures\\businessfixtureautomaticlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58737FC-F8EA-49BA-A5D7-90941DAE4368}|2.Business\\Fixtures\\Business.Fixtures.S23S.csproj|solutionrelative:2.business\\fixtures\\businessfixtureautomaticlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB47B59-B686-43FF-8684-5147FCA3B1CC}|3.Data\\Fixtures\\Data.Fixtures.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\3.data\\fixtures\\datafixturelistcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB47B59-B686-43FF-8684-5147FCA3B1CC}|3.Data\\Fixtures\\Data.Fixtures.S23S.csproj|solutionrelative:3.data\\fixtures\\datafixturelistcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4314D15-2C82-4BA6-84DF-EF4A77423551}|3.Data\\Grounds\\Data.Grounds.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\3.data\\grounds\\datagroundget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4314D15-2C82-4BA6-84DF-EF4A77423551}|3.Data\\Grounds\\Data.Grounds.S23S.csproj|solutionrelative:3.data\\grounds\\datagroundget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB47B59-B686-43FF-8684-5147FCA3B1CC}|3.Data\\Fixtures\\Data.Fixtures.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\3.data\\fixtures\\datafixturecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB47B59-B686-43FF-8684-5147FCA3B1CC}|3.Data\\Fixtures\\Data.Fixtures.S23S.csproj|solutionrelative:3.data\\fixtures\\datafixturecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D327DD32-1397-4B75-9EF6-B0EE86A3454A}|3.Data\\ChampionshipGroupsTeams\\Data.ChampionshipGroupsTeams.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\3.data\\championshipgroupsteams\\datachampionshipgroupteamget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D327DD32-1397-4B75-9EF6-B0EE86A3454A}|3.Data\\ChampionshipGroupsTeams\\Data.ChampionshipGroupsTeams.S23S.csproj|solutionrelative:3.data\\championshipgroupsteams\\datachampionshipgroupteamget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58737FC-F8EA-49BA-A5D7-90941DAE4368}|2.Business\\Fixtures\\Business.Fixtures.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\fixtures\\businessfixturecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58737FC-F8EA-49BA-A5D7-90941DAE4368}|2.Business\\Fixtures\\Business.Fixtures.S23S.csproj|solutionrelative:2.business\\fixtures\\businessfixturecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D58737FC-F8EA-49BA-A5D7-90941DAE4368}|2.Business\\Fixtures\\Business.Fixtures.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\fixtures\\businessfixturevalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D58737FC-F8EA-49BA-A5D7-90941DAE4368}|2.Business\\Fixtures\\Business.Fixtures.S23S.csproj|solutionrelative:2.business\\fixtures\\businessfixturevalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C4FCF39-1C2B-4BCF-BD19-430D30403BE6}|2.Business\\Users\\Business.Users.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\users\\businessusercreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C4FCF39-1C2B-4BCF-BD19-430D30403BE6}|2.Business\\Users\\Business.Users.S23S.csproj|solutionrelative:2.business\\users\\businessusercreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F315AFD7-401A-4D4B-9875-3EA514AD2615}|2.Business\\GoalCrack\\GoalCrackPositions\\Business.GoalCrackPositions.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\goalcrack\\goalcrackpositions\\businessgoalcrackpositionget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F315AFD7-401A-4D4B-9875-3EA514AD2615}|2.Business\\GoalCrack\\GoalCrackPositions\\Business.GoalCrackPositions.S23S.csproj|solutionrelative:2.business\\goalcrack\\goalcrackpositions\\businessgoalcrackpositionget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782CB227-E25D-4EA4-BCAE-BCBBFB99DBCA}|3.Data\\StageGameModes\\Data.StageGameModes.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\3.data\\stagegamemodes\\datastagegamemodeget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782CB227-E25D-4EA4-BCAE-BCBBFB99DBCA}|3.Data\\StageGameModes\\Data.StageGameModes.S23S.csproj|solutionrelative:3.data\\stagegamemodes\\datastagegamemodeget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E14E88-F0C3-4110-880F-F09943EA4145}|1.Web\\S23S.API.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\1.web\\controllers\\goalcrack\\goalcrackcockregister\\goalcrackcockregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E14E88-F0C3-4110-880F-F09943EA4145}|1.Web\\S23S.API.csproj|solutionrelative:1.web\\controllers\\goalcrack\\goalcrackcockregister\\goalcrackcockregistercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E14E88-F0C3-4110-880F-F09943EA4145}|1.Web\\S23S.API.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\1.web\\controllers\\goalcrack\\goalcrackresults\\goalcrackresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E14E88-F0C3-4110-880F-F09943EA4145}|1.Web\\S23S.API.csproj|solutionrelative:1.web\\controllers\\goalcrack\\goalcrackresults\\goalcrackresultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35E14E88-F0C3-4110-880F-F09943EA4145}|1.Web\\S23S.API.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\1.web\\controllers\\goalcrack\\goalcrackcocksexit\\goalcrackcockexitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35E14E88-F0C3-4110-880F-F09943EA4145}|1.Web\\S23S.API.csproj|solutionrelative:1.web\\controllers\\goalcrack\\goalcrackcocksexit\\goalcrackcockexitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FB47B59-B686-43FF-8684-5147FCA3B1CC}|3.Data\\Fixtures\\Data.Fixtures.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\3.data\\fixtures\\datafixtureupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FB47B59-B686-43FF-8684-5147FCA3B1CC}|3.Data\\Fixtures\\Data.Fixtures.S23S.csproj|solutionrelative:3.data\\fixtures\\datafixtureupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F315AFD7-401A-4D4B-9875-3EA514AD2615}|2.Business\\GoalCrack\\GoalCrackPositions\\Business.GoalCrackPositions.S23S.csproj|c:\\proyectos\\s23sports\\dev\\app\\2.api\\s23sportsapi\\2.business\\goalcrack\\goalcrackpositions\\businessgoalcrackpositionupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F315AFD7-401A-4D4B-9875-3EA514AD2615}|2.Business\\GoalCrack\\GoalCrackPositions\\Business.GoalCrackPositions.S23S.csproj|solutionrelative:2.business\\goalcrack\\goalcrackpositions\\businessgoalcrackpositionupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 43,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChampionshipPlayGroupController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\1.Web\\Controllers\\ChampionshipPlayGroups\\ChampionshipPlayGroupController.cs",
+              "RelativeDocumentMoniker": "1.Web\\Controllers\\ChampionshipPlayGroups\\ChampionshipPlayGroupController.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\1.Web\\Controllers\\ChampionshipPlayGroups\\ChampionshipPlayGroupController.cs",
+              "RelativeToolTip": "1.Web\\Controllers\\ChampionshipPlayGroups\\ChampionshipPlayGroupController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:33:04.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataTeamGet.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Teams\\DataTeamGet.cs",
+              "RelativeDocumentMoniker": "3.Data\\Teams\\DataTeamGet.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Teams\\DataTeamGet.cs",
+              "RelativeToolTip": "3.Data\\Teams\\DataTeamGet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T17:01:59.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusinessTeamUpdate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Teams\\BusinessTeamUpdate.cs",
+              "RelativeDocumentMoniker": "2.Business\\Teams\\BusinessTeamUpdate.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Teams\\BusinessTeamUpdate.cs",
+              "RelativeToolTip": "2.Business\\Teams\\BusinessTeamUpdate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T16:30:24.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BusinessChampionshipPlayGroupUpdate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\ChampionshipPlayGroups\\BusinessChampionshipPlayGroupUpdate.cs",
+              "RelativeDocumentMoniker": "2.Business\\ChampionshipPlayGroups\\BusinessChampionshipPlayGroupUpdate.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\ChampionshipPlayGroups\\BusinessChampionshipPlayGroupUpdate.cs",
+              "RelativeToolTip": "2.Business\\ChampionshipPlayGroups\\BusinessChampionshipPlayGroupUpdate.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAawIUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T03:09:38.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DataChampionshipPlayGroupGet.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\ChampionshipPlayGroups\\DataChampionshipPlayGroupGet.cs",
+              "RelativeDocumentMoniker": "3.Data\\ChampionshipPlayGroups\\DataChampionshipPlayGroupGet.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\ChampionshipPlayGroups\\DataChampionshipPlayGroupGet.cs",
+              "RelativeToolTip": "3.Data\\ChampionshipPlayGroups\\DataChampionshipPlayGroupGet.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAgwFUAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:53:55.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BusinessChampionshipPlaysUpdate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\ChampionshipPlay\\BusinessChampionshipPlaysUpdate.cs",
+              "RelativeDocumentMoniker": "2.Business\\ChampionshipPlay\\BusinessChampionshipPlaysUpdate.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\ChampionshipPlay\\BusinessChampionshipPlaysUpdate.cs",
+              "RelativeToolTip": "2.Business\\ChampionshipPlay\\BusinessChampionshipPlaysUpdate.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAvwEQAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T02:58:46.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataChampionshipGet.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Championships\\DataChampionshipGet.cs",
+              "RelativeDocumentMoniker": "3.Data\\Championships\\DataChampionshipGet.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Championships\\DataChampionshipGet.cs",
+              "RelativeToolTip": "3.Data\\Championships\\DataChampionshipGet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T20:12:40.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BusinessGoalCrackCockOwnerGet.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\GoalCrack\\GoalCrackCockOwners\\BusinessGoalCrackCockOwnerGet.cs",
+              "RelativeDocumentMoniker": "2.Business\\GoalCrack\\GoalCrackCockOwners\\BusinessGoalCrackCockOwnerGet.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\GoalCrack\\GoalCrackCockOwners\\BusinessGoalCrackCockOwnerGet.cs",
+              "RelativeToolTip": "2.Business\\GoalCrack\\GoalCrackCockOwners\\BusinessGoalCrackCockOwnerGet.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAawB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:11:54.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BusinessChampionshipUpdate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Championships\\BusinessChampionshipUpdate.cs",
+              "RelativeDocumentMoniker": "2.Business\\Championships\\BusinessChampionshipUpdate.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Championships\\BusinessChampionshipUpdate.cs",
+              "RelativeToolTip": "2.Business\\Championships\\BusinessChampionshipUpdate.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAawIsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T15:11:55.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BusinessTeamCreate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Teams\\BusinessTeamCreate.cs",
+              "RelativeDocumentMoniker": "2.Business\\Teams\\BusinessTeamCreate.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Teams\\BusinessTeamCreate.cs",
+              "RelativeToolTip": "2.Business\\Teams\\BusinessTeamCreate.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAawD8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:44:33.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BusinessStageUpdate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Stages\\BusinessStageUpdate.cs",
+              "RelativeDocumentMoniker": "2.Business\\Stages\\BusinessStageUpdate.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Stages\\BusinessStageUpdate.cs",
+              "RelativeToolTip": "2.Business\\Stages\\BusinessStageUpdate.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAYwFYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:44:21.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BusinessStageCreate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Stages\\BusinessStageCreate.cs",
+              "RelativeDocumentMoniker": "2.Business\\Stages\\BusinessStageCreate.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Stages\\BusinessStageCreate.cs",
+              "RelativeToolTip": "2.Business\\Stages\\BusinessStageCreate.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:44:10.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BusinessLocationCreate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Locations\\BusinessLocationCreate.cs",
+              "RelativeDocumentMoniker": "2.Business\\Locations\\BusinessLocationCreate.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Locations\\BusinessLocationCreate.cs",
+              "RelativeToolTip": "2.Business\\Locations\\BusinessLocationCreate.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAYwCIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:43:55.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BusinessGroupMasterUpdate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\GroupMasters\\BusinessGroupMasterUpdate.cs",
+              "RelativeDocumentMoniker": "2.Business\\GroupMasters\\BusinessGroupMasterUpdate.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\GroupMasters\\BusinessGroupMasterUpdate.cs",
+              "RelativeToolTip": "2.Business\\GroupMasters\\BusinessGroupMasterUpdate.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAlwFgAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:43:04.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BusinessGroupMasterCreate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\GroupMasters\\BusinessGroupMasterCreate.cs",
+              "RelativeDocumentMoniker": "2.Business\\GroupMasters\\BusinessGroupMasterCreate.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\GroupMasters\\BusinessGroupMasterCreate.cs",
+              "RelativeToolTip": "2.Business\\GroupMasters\\BusinessGroupMasterCreate.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAlwCMAAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:42:25.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BusinessChampionshipPlayGroupCreate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\ChampionshipPlayGroups\\BusinessChampionshipPlayGroupCreate.cs",
+              "RelativeDocumentMoniker": "2.Business\\ChampionshipPlayGroups\\BusinessChampionshipPlayGroupCreate.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\ChampionshipPlayGroups\\BusinessChampionshipPlayGroupCreate.cs",
+              "RelativeToolTip": "2.Business\\ChampionshipPlayGroups\\BusinessChampionshipPlayGroupCreate.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T23:40:34.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ChampionshipController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\1.Web\\Controllers\\Championships\\ChampionshipController.cs",
+              "RelativeDocumentMoniker": "1.Web\\Controllers\\Championships\\ChampionshipController.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\1.Web\\Controllers\\Championships\\ChampionshipController.cs",
+              "RelativeToolTip": "1.Web\\Controllers\\Championships\\ChampionshipController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAIBJwGEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:55:22.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "BusinessCategoryCreate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Categories\\BusinessCategoryCreate.cs",
+              "RelativeDocumentMoniker": "2.Business\\Categories\\BusinessCategoryCreate.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Categories\\BusinessCategoryCreate.cs",
+              "RelativeToolTip": "2.Business\\Categories\\BusinessCategoryCreate.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAlwB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:55:22.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ChampionshipTypeController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\1.Web\\Controllers\\ChampionshipTypes\\ChampionshipTypeController.cs",
+              "RelativeDocumentMoniker": "1.Web\\Controllers\\ChampionshipTypes\\ChampionshipTypeController.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\1.Web\\Controllers\\ChampionshipTypes\\ChampionshipTypeController.cs",
+              "RelativeToolTip": "1.Web\\Controllers\\ChampionshipTypes\\ChampionshipTypeController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwCQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:55:22.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BusinessUserGet.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Users\\BusinessUserGet.cs",
+              "RelativeDocumentMoniker": "2.Business\\Users\\BusinessUserGet.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Users\\BusinessUserGet.cs",
+              "RelativeToolTip": "2.Business\\Users\\BusinessUserGet.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAASwHYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:55:22.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\1.Web\\Controllers\\Users\\UserController.cs",
+              "RelativeDocumentMoniker": "1.Web\\Controllers\\Users\\UserController.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\1.Web\\Controllers\\Users\\UserController.cs",
+              "RelativeToolTip": "1.Web\\Controllers\\Users\\UserController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T22:55:22.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BusinessMatchReschedule.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Fixtures\\BusinessMatchReschedule.cs",
+              "RelativeDocumentMoniker": "2.Business\\Fixtures\\BusinessMatchReschedule.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Fixtures\\BusinessMatchReschedule.cs",
+              "RelativeToolTip": "2.Business\\Fixtures\\BusinessMatchReschedule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T00:02:00.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DataFixtureListCreate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Fixtures\\DataFixtureListCreate.cs",
+              "RelativeDocumentMoniker": "3.Data\\Fixtures\\DataFixtureListCreate.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Fixtures\\DataFixtureListCreate.cs",
+              "RelativeToolTip": "3.Data\\Fixtures\\DataFixtureListCreate.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAqwFYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T23:33:31.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BusinessFixtureAutomaticLogic.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Fixtures\\BusinessFixtureAutomaticLogic.cs",
+              "RelativeDocumentMoniker": "2.Business\\Fixtures\\BusinessFixtureAutomaticLogic.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Fixtures\\BusinessFixtureAutomaticLogic.cs",
+              "RelativeToolTip": "2.Business\\Fixtures\\BusinessFixtureAutomaticLogic.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwHAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:44:56.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BusinessFixtureAutomaticGenerate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Fixtures\\BusinessFixtureAutomaticGenerate.cs",
+              "RelativeDocumentMoniker": "2.Business\\Fixtures\\BusinessFixtureAutomaticGenerate.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Fixtures\\BusinessFixtureAutomaticGenerate.cs",
+              "RelativeToolTip": "2.Business\\Fixtures\\BusinessFixtureAutomaticGenerate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:41:15.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DataGroundGet.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Grounds\\DataGroundGet.cs",
+              "RelativeDocumentMoniker": "3.Data\\Grounds\\DataGroundGet.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Grounds\\DataGroundGet.cs",
+              "RelativeToolTip": "3.Data\\Grounds\\DataGroundGet.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAkwFkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:14:31.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataChampionshipPlaysUpdate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\ChampionshipPlay\\DataChampionshipPlaysUpdate.cs",
+              "RelativeDocumentMoniker": "3.Data\\ChampionshipPlay\\DataChampionshipPlaysUpdate.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\ChampionshipPlay\\DataChampionshipPlaysUpdate.cs",
+              "RelativeToolTip": "3.Data\\ChampionshipPlay\\DataChampionshipPlaysUpdate.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwDUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:51:28.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataChampionshipPlaysGet.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\ChampionshipPlay\\DataChampionshipPlaysGet.cs",
+              "RelativeDocumentMoniker": "3.Data\\ChampionshipPlay\\DataChampionshipPlaysGet.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\ChampionshipPlay\\DataChampionshipPlaysGet.cs",
+              "RelativeToolTip": "3.Data\\ChampionshipPlay\\DataChampionshipPlaysGet.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAkwIIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T00:50:08.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DataFixtureCreate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Fixtures\\DataFixtureCreate.cs",
+              "RelativeDocumentMoniker": "3.Data\\Fixtures\\DataFixtureCreate.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Fixtures\\DataFixtureCreate.cs",
+              "RelativeToolTip": "3.Data\\Fixtures\\DataFixtureCreate.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T23:13:24.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "DataChampionshipGroupTeamGet.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\ChampionshipGroupsTeams\\DataChampionshipGroupTeamGet.cs",
+              "RelativeDocumentMoniker": "3.Data\\ChampionshipGroupsTeams\\DataChampionshipGroupTeamGet.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\ChampionshipGroupsTeams\\DataChampionshipGroupTeamGet.cs",
+              "RelativeToolTip": "3.Data\\ChampionshipGroupsTeams\\DataChampionshipGroupTeamGet.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAYwEkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T21:01:55.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BusinessFixtureValidate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Fixtures\\BusinessFixtureValidate.cs",
+              "RelativeDocumentMoniker": "2.Business\\Fixtures\\BusinessFixtureValidate.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Fixtures\\BusinessFixtureValidate.cs",
+              "RelativeToolTip": "2.Business\\Fixtures\\BusinessFixtureValidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T17:38:12.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BusinessFixtureCreate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Fixtures\\BusinessFixtureCreate.cs",
+              "RelativeDocumentMoniker": "2.Business\\Fixtures\\BusinessFixtureCreate.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Fixtures\\BusinessFixtureCreate.cs",
+              "RelativeToolTip": "2.Business\\Fixtures\\BusinessFixtureCreate.cs",
+              "ViewState": "AgIAAAYBAAAAAAAAAAAWwBsBAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T03:41:19.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DataStageGameModeGet.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\StageGameModes\\DataStageGameModeGet.cs",
+              "RelativeDocumentMoniker": "3.Data\\StageGameModes\\DataStageGameModeGet.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\StageGameModes\\DataStageGameModeGet.cs",
+              "RelativeToolTip": "3.Data\\StageGameModes\\DataStageGameModeGet.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T21:46:09.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BusinessChampionshipPlaysCreate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\ChampionshipPlay\\BusinessChampionshipPlaysCreate.cs",
+              "RelativeDocumentMoniker": "2.Business\\ChampionshipPlay\\BusinessChampionshipPlaysCreate.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\ChampionshipPlay\\BusinessChampionshipPlaysCreate.cs",
+              "RelativeToolTip": "2.Business\\ChampionshipPlay\\BusinessChampionshipPlaysCreate.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAawFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T17:28:19.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BusinessChampionshipCreate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Championships\\BusinessChampionshipCreate.cs",
+              "RelativeDocumentMoniker": "2.Business\\Championships\\BusinessChampionshipCreate.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Championships\\BusinessChampionshipCreate.cs",
+              "RelativeToolTip": "2.Business\\Championships\\BusinessChampionshipCreate.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:56:15.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "BusinessUserCreate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Users\\BusinessUserCreate.cs",
+              "RelativeDocumentMoniker": "2.Business\\Users\\BusinessUserCreate.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Users\\BusinessUserCreate.cs",
+              "RelativeToolTip": "2.Business\\Users\\BusinessUserCreate.cs",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAYwLYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T16:54:43.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "GoalCrackCockExitController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\1.Web\\Controllers\\GoalCrack\\GoalCrackCocksExit\\GoalCrackCockExitController.cs",
+              "RelativeDocumentMoniker": "1.Web\\Controllers\\GoalCrack\\GoalCrackCocksExit\\GoalCrackCockExitController.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\1.Web\\Controllers\\GoalCrack\\GoalCrackCocksExit\\GoalCrackCockExitController.cs",
+              "RelativeToolTip": "1.Web\\Controllers\\GoalCrack\\GoalCrackCocksExit\\GoalCrackCockExitController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T00:56:36.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "BusinessGoalCrackPositionUpdate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\GoalCrack\\GoalCrackPositions\\BusinessGoalCrackPositionUpdate.cs",
+              "RelativeDocumentMoniker": "2.Business\\GoalCrack\\GoalCrackPositions\\BusinessGoalCrackPositionUpdate.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\GoalCrack\\GoalCrackPositions\\BusinessGoalCrackPositionUpdate.cs",
+              "RelativeToolTip": "2.Business\\GoalCrack\\GoalCrackPositions\\BusinessGoalCrackPositionUpdate.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwC4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T22:49:35.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GoalCrackCockRegisterController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\1.Web\\Controllers\\GoalCrack\\GoalCrackCockRegister\\GoalCrackCockRegisterController.cs",
+              "RelativeDocumentMoniker": "1.Web\\Controllers\\GoalCrack\\GoalCrackCockRegister\\GoalCrackCockRegisterController.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\1.Web\\Controllers\\GoalCrack\\GoalCrackCockRegister\\GoalCrackCockRegisterController.cs",
+              "RelativeToolTip": "1.Web\\Controllers\\GoalCrack\\GoalCrackCockRegister\\GoalCrackCockRegisterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:44:13.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DataFixtureUpdate.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Fixtures\\DataFixtureUpdate.cs",
+              "RelativeDocumentMoniker": "3.Data\\Fixtures\\DataFixtureUpdate.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Fixtures\\DataFixtureUpdate.cs",
+              "RelativeToolTip": "3.Data\\Fixtures\\DataFixtureUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:52:29.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FixtureController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\1.Web\\Controllers\\Fixtures\\FixtureController.cs",
+              "RelativeDocumentMoniker": "1.Web\\Controllers\\Fixtures\\FixtureController.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\1.Web\\Controllers\\Fixtures\\FixtureController.cs*",
+              "RelativeToolTip": "1.Web\\Controllers\\Fixtures\\FixtureController.cs*",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T23:42:52.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "GoalCrackResultController.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\1.Web\\Controllers\\GoalCrack\\GoalCrackResults\\GoalCrackResultController.cs",
+              "RelativeDocumentMoniker": "1.Web\\Controllers\\GoalCrack\\GoalCrackResults\\GoalCrackResultController.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\1.Web\\Controllers\\GoalCrack\\GoalCrackResults\\GoalCrackResultController.cs",
+              "RelativeToolTip": "1.Web\\Controllers\\GoalCrack\\GoalCrackResults\\GoalCrackResultController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwDcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T01:44:20.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BusinessGoalCrackPositionGet.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\GoalCrack\\GoalCrackPositions\\BusinessGoalCrackPositionGet.cs",
+              "RelativeDocumentMoniker": "2.Business\\GoalCrack\\GoalCrackPositions\\BusinessGoalCrackPositionGet.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\GoalCrack\\GoalCrackPositions\\BusinessGoalCrackPositionGet.cs",
+              "RelativeToolTip": "2.Business\\GoalCrack\\GoalCrackPositions\\BusinessGoalCrackPositionGet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T00:42:15.199Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

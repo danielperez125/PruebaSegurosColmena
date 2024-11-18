@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Authors>Utils.Prueba.Colmena</Authors>
+    <Company>PruebaColmenaSeguros</Company>
+    <Description>Colmena Seguros paquete de utilidades</Description>
+    <Copyright>Colmena_DanielPerez</Copyright>
+    <Version>1.0.0</Version>
+    <PackageReleaseNotes>Utils Package</PackageReleaseNotes>
+    <PackageIcon>iconoColmenaNuGet.png</PackageIcon>
+    <ApplicationIcon>iconoColmena.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="iconoColmena.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\..\Sources\iconoColmenaNuGet.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

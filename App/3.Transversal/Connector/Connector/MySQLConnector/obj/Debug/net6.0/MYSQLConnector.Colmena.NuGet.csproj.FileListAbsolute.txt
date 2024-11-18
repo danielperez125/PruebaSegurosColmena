@@ -1,0 +1,15 @@
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Connector\Connector\MySQLConnector\obj\Debug\net6.0\MYSQLConnector.Colmena.NuGet.csproj.AssemblyReference.cache
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Connector\Connector\MySQLConnector\obj\Debug\net6.0\MYSQLConnector.Colmena.NuGet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Connector\Connector\MySQLConnector\obj\Debug\net6.0\MYSQLConnector.Colmena.NuGet.AssemblyInfoInputs.cache
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Connector\Connector\MySQLConnector\obj\Debug\net6.0\MYSQLConnector.Colmena.NuGet.AssemblyInfo.cs
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Connector\Connector\MySQLConnector\obj\Debug\net6.0\MYSQLConnector.Colmena.NuGet.csproj.CoreCompileInputs.cache
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Connector\Connector\MySQLConnector\bin\Debug\net6.0\MYSQLConnector.Colmena.NuGet.deps.json
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Connector\Connector\MySQLConnector\bin\Debug\net6.0\MYSQLConnector.Colmena.NuGet.dll
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Connector\Connector\MySQLConnector\bin\Debug\net6.0\MYSQLConnector.Colmena.NuGet.pdb
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Connector\Connector\MySQLConnector\bin\Debug\net6.0\Utils.S23S.NuGet.dll
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Connector\Connector\MySQLConnector\bin\Debug\net6.0\Utils.S23S.NuGet.pdb
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Connector\Connector\MySQLConnector\obj\Debug\net6.0\MYSQLCon.59B3D537.Up2Date
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Connector\Connector\MySQLConnector\obj\Debug\net6.0\MYSQLConnector.Colmena.NuGet.dll
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Connector\Connector\MySQLConnector\obj\Debug\net6.0\refint\MYSQLConnector.Colmena.NuGet.dll
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Connector\Connector\MySQLConnector\obj\Debug\net6.0\MYSQLConnector.Colmena.NuGet.pdb
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Connector\Connector\MySQLConnector\obj\Debug\net6.0\ref\MYSQLConnector.Colmena.NuGet.dll

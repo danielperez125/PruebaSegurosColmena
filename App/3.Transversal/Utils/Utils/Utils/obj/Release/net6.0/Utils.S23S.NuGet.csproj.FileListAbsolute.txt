@@ -1,0 +1,12 @@
+C:\Proyectos\S23Sports\Dev\App\3.Transversal\Utils\Utils\Utils\bin\Release\net6.0\Utils.S23S.NuGet.deps.json
+C:\Proyectos\S23Sports\Dev\App\3.Transversal\Utils\Utils\Utils\bin\Release\net6.0\Utils.S23S.NuGet.dll
+C:\Proyectos\S23Sports\Dev\App\3.Transversal\Utils\Utils\Utils\bin\Release\net6.0\Utils.S23S.NuGet.pdb
+C:\Proyectos\S23Sports\Dev\App\3.Transversal\Utils\Utils\Utils\obj\Release\net6.0\Utils.S23S.NuGet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\S23Sports\Dev\App\3.Transversal\Utils\Utils\Utils\obj\Release\net6.0\Utils.S23S.NuGet.AssemblyInfoInputs.cache
+C:\Proyectos\S23Sports\Dev\App\3.Transversal\Utils\Utils\Utils\obj\Release\net6.0\Utils.S23S.NuGet.AssemblyInfo.cs
+C:\Proyectos\S23Sports\Dev\App\3.Transversal\Utils\Utils\Utils\obj\Release\net6.0\Utils.S23S.NuGet.csproj.CoreCompileInputs.cache
+C:\Proyectos\S23Sports\Dev\App\3.Transversal\Utils\Utils\Utils\obj\Release\net6.0\Utils.S23S.NuGet.sourcelink.json
+C:\Proyectos\S23Sports\Dev\App\3.Transversal\Utils\Utils\Utils\obj\Release\net6.0\Utils.S23S.NuGet.dll
+C:\Proyectos\S23Sports\Dev\App\3.Transversal\Utils\Utils\Utils\obj\Release\net6.0\refint\Utils.S23S.NuGet.dll
+C:\Proyectos\S23Sports\Dev\App\3.Transversal\Utils\Utils\Utils\obj\Release\net6.0\Utils.S23S.NuGet.pdb
+C:\Proyectos\S23Sports\Dev\App\3.Transversal\Utils\Utils\Utils\obj\Release\net6.0\ref\Utils.S23S.NuGet.dll

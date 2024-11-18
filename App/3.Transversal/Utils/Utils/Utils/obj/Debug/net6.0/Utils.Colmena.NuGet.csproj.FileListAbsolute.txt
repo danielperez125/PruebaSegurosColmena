@@ -1,0 +1,11 @@
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Utils\Utils\Utils\bin\Debug\net6.0\Utils.Colmena.NuGet.deps.json
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Utils\Utils\Utils\bin\Debug\net6.0\Utils.Colmena.NuGet.dll
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Utils\Utils\Utils\bin\Debug\net6.0\Utils.Colmena.NuGet.pdb
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Utils\Utils\Utils\obj\Debug\net6.0\Utils.Colmena.NuGet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Utils\Utils\Utils\obj\Debug\net6.0\Utils.Colmena.NuGet.AssemblyInfoInputs.cache
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Utils\Utils\Utils\obj\Debug\net6.0\Utils.Colmena.NuGet.AssemblyInfo.cs
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Utils\Utils\Utils\obj\Debug\net6.0\Utils.Colmena.NuGet.csproj.CoreCompileInputs.cache
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Utils\Utils\Utils\obj\Debug\net6.0\Utils.Colmena.NuGet.dll
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Utils\Utils\Utils\obj\Debug\net6.0\refint\Utils.Colmena.NuGet.dll
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Utils\Utils\Utils\obj\Debug\net6.0\Utils.Colmena.NuGet.pdb
+C:\Proyectos\PruebaSegurosColmena\App\3.Transversal\Utils\Utils\Utils\obj\Debug\net6.0\ref\Utils.Colmena.NuGet.dll

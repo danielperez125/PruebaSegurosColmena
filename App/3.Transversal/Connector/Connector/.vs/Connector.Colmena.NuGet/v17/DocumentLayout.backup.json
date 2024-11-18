@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Connector\\Connector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9ED6F1-2C06-4F9A-9DD1-EEE86A4EFA94}|MySQLConnector\\MYSQLConnector.Colmena.NuGet.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\3.transversal\\connector\\connector\\mysqlconnector\\mysqlconnector.colmena.nuget.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5B9ED6F1-2C06-4F9A-9DD1-EEE86A4EFA94}|MySQLConnector\\MYSQLConnector.Colmena.NuGet.csproj|solutionrelative:mysqlconnector\\mysqlconnector.colmena.nuget.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B9ED6F1-2C06-4F9A-9DD1-EEE86A4EFA94}|MySQLConnector\\MYSQLConnector.Colmena.NuGet.csproj|c:\\proyectos\\pruebaseguroscolmena\\app\\3.transversal\\connector\\connector\\mysqlconnector\\colmenamysqlconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B9ED6F1-2C06-4F9A-9DD1-EEE86A4EFA94}|MySQLConnector\\MYSQLConnector.Colmena.NuGet.csproj|solutionrelative:mysqlconnector\\colmenamysqlconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MYSQLConnector.Colmena.NuGet",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Connector\\Connector\\MySQLConnector\\MYSQLConnector.Colmena.NuGet.csproj",
+              "RelativeDocumentMoniker": "MySQLConnector\\MYSQLConnector.Colmena.NuGet.csproj",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Connector\\Connector\\MySQLConnector\\MYSQLConnector.Colmena.NuGet.csproj",
+              "RelativeToolTip": "MySQLConnector\\MYSQLConnector.Colmena.NuGet.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-17T22:30:00.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ColmenaMYSQLConnector.cs",
+              "DocumentMoniker": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Connector\\Connector\\MySQLConnector\\ColmenaMYSQLConnector.cs",
+              "RelativeDocumentMoniker": "MySQLConnector\\ColmenaMYSQLConnector.cs",
+              "ToolTip": "C:\\Proyectos\\PruebaSegurosColmena\\App\\3.Transversal\\Connector\\Connector\\MySQLConnector\\ColmenaMYSQLConnector.cs",
+              "RelativeToolTip": "MySQLConnector\\ColmenaMYSQLConnector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T18:25:55.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

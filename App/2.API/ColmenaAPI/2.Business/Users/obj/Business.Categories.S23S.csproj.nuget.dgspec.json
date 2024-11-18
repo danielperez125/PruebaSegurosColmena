@@ -1,0 +1,586 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Categories\\Business.Categories.S23S.csproj": {}
+  },
+  "projects": {
+    "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Categories\\Business.Categories.S23S.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Categories\\Business.Categories.S23S.csproj",
+        "projectName": "Business.Categories.S23S",
+        "projectPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Categories\\Business.Categories.S23S.csproj",
+        "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\Categories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Proyectos\\S23Sports\\Dev\\App\\4.S23SLocalNuGets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\TeamsCategories\\Business.TeamsCategories.S23S.csproj": {
+                "projectPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\TeamsCategories\\Business.TeamsCategories.S23S.csproj"
+              },
+              "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Categories\\Data.Categories.S23S.csproj": {
+                "projectPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Categories\\Data.Categories.S23S.csproj"
+              },
+              "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Client\\Data.Clients.S23S.csproj": {
+                "projectPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Client\\Data.Clients.S23S.csproj"
+              },
+              "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Genders\\Data.Genders.S23S.csproj": {
+                "projectPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Genders\\Data.Genders.S23S.csproj"
+              },
+              "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Teams\\Data.Teams.S23S.csproj": {
+                "projectPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Teams\\Data.Teams.S23S.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\TeamsCategories\\Business.TeamsCategories.S23S.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\TeamsCategories\\Business.TeamsCategories.S23S.csproj",
+        "projectName": "Business.TeamsCategories.S23S",
+        "projectPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\TeamsCategories\\Business.TeamsCategories.S23S.csproj",
+        "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\2.Business\\TeamsCategories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Proyectos\\S23Sports\\Dev\\App\\4.S23SLocalNuGets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Categories\\Data.Categories.S23S.csproj": {
+                "projectPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Categories\\Data.Categories.S23S.csproj"
+              },
+              "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\TeamsCategories\\Data.TeamsCategories.S23S.csproj": {
+                "projectPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\TeamsCategories\\Data.TeamsCategories.S23S.csproj"
+              },
+              "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Teams\\Data.Teams.S23S.csproj": {
+                "projectPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Teams\\Data.Teams.S23S.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Categories\\Data.Categories.S23S.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Categories\\Data.Categories.S23S.csproj",
+        "projectName": "Data.Categories.S23S",
+        "projectPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Categories\\Data.Categories.S23S.csproj",
+        "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Categories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Proyectos\\S23Sports\\Dev\\App\\4.S23SLocalNuGets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\4.Transversal\\Transversal.Entities.S23S.csproj": {
+                "projectPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\4.Transversal\\Transversal.Entities.S23S.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MYSQLConnector.S23S.NuGet": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Client\\Data.Clients.S23S.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Client\\Data.Clients.S23S.csproj",
+        "projectName": "Data.Clients.S23S",
+        "projectPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Client\\Data.Clients.S23S.csproj",
+        "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Proyectos\\S23Sports\\Dev\\App\\4.S23SLocalNuGets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\4.Transversal\\Transversal.Entities.S23S.csproj": {
+                "projectPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\4.Transversal\\Transversal.Entities.S23S.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MYSQLConnector.S23S.NuGet": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Genders\\Data.Genders.S23S.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Genders\\Data.Genders.S23S.csproj",
+        "projectName": "Data.Genders.S23S",
+        "projectPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Genders\\Data.Genders.S23S.csproj",
+        "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Genders\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Proyectos\\S23Sports\\Dev\\App\\4.S23SLocalNuGets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\4.Transversal\\Transversal.Entities.S23S.csproj": {
+                "projectPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\4.Transversal\\Transversal.Entities.S23S.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MYSQLConnector.S23S.NuGet": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\TeamsCategories\\Data.TeamsCategories.S23S.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\TeamsCategories\\Data.TeamsCategories.S23S.csproj",
+        "projectName": "Data.TeamsCategories.S23S",
+        "projectPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\TeamsCategories\\Data.TeamsCategories.S23S.csproj",
+        "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\TeamsCategories\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Proyectos\\S23Sports\\Dev\\App\\4.S23SLocalNuGets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\4.Transversal\\Transversal.Entities.S23S.csproj": {
+                "projectPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\4.Transversal\\Transversal.Entities.S23S.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MYSQLConnector.S23S.NuGet": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Teams\\Data.Teams.S23S.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Teams\\Data.Teams.S23S.csproj",
+        "projectName": "Data.Teams.S23S",
+        "projectPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Teams\\Data.Teams.S23S.csproj",
+        "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\3.Data\\Teams\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Proyectos\\S23Sports\\Dev\\App\\4.S23SLocalNuGets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\4.Transversal\\Transversal.Entities.S23S.csproj": {
+                "projectPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\4.Transversal\\Transversal.Entities.S23S.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MYSQLConnector.S23S.NuGet": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\4.Transversal\\Transversal.Entities.S23S.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\4.Transversal\\Transversal.Entities.S23S.csproj",
+        "projectName": "Transversal.Entities.S23S",
+        "projectPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\4.Transversal\\Transversal.Entities.S23S.csproj",
+        "packagesPath": "C:\\Users\\DANIEL\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\2.API\\S23SportsAPI\\4.Transversal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DANIEL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Proyectos\\S23Sports\\Dev\\App\\4.S23SLocalNuGets": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

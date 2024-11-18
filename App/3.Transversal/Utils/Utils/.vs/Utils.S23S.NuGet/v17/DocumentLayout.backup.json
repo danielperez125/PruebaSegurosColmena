@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Utils\\Utils\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2B4E6D-49C3-472F-B385-AEEA83A1E929}|Utils\\Utils.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\utils\\utils\\utils\\fixtures\\algorithmreturnfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2B4E6D-49C3-472F-B385-AEEA83A1E929}|Utils\\Utils.S23S.NuGet.csproj|solutionrelative:utils\\fixtures\\algorithmreturnfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2B4E6D-49C3-472F-B385-AEEA83A1E929}|Utils\\Utils.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\utils\\utils\\utils\\fixtures\\algorithmfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2B4E6D-49C3-472F-B385-AEEA83A1E929}|Utils\\Utils.S23S.NuGet.csproj|solutionrelative:utils\\fixtures\\algorithmfixture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2B4E6D-49C3-472F-B385-AEEA83A1E929}|Utils\\Utils.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\utils\\utils\\utils\\cipher\\ciphergoalcrackaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2B4E6D-49C3-472F-B385-AEEA83A1E929}|Utils\\Utils.S23S.NuGet.csproj|solutionrelative:utils\\cipher\\ciphergoalcrackaes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2B4E6D-49C3-472F-B385-AEEA83A1E929}|Utils\\Utils.S23S.NuGet.csproj|c:\\proyectos\\s23sports\\dev\\app\\3.transversal\\utils\\utils\\utils\\cipher\\cipheraes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D2B4E6D-49C3-472F-B385-AEEA83A1E929}|Utils\\Utils.S23S.NuGet.csproj|solutionrelative:utils\\cipher\\cipheraes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlgorithmReturnFixture.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Utils\\Utils\\Utils\\Fixtures\\AlgorithmReturnFixture.cs",
+              "RelativeDocumentMoniker": "Utils\\Fixtures\\AlgorithmReturnFixture.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Utils\\Utils\\Utils\\Fixtures\\AlgorithmReturnFixture.cs",
+              "RelativeToolTip": "Utils\\Fixtures\\AlgorithmReturnFixture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T21:11:22.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlgorithmFixture.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Utils\\Utils\\Utils\\Fixtures\\AlgorithmFixture.cs",
+              "RelativeDocumentMoniker": "Utils\\Fixtures\\AlgorithmFixture.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Utils\\Utils\\Utils\\Fixtures\\AlgorithmFixture.cs",
+              "RelativeToolTip": "Utils\\Fixtures\\AlgorithmFixture.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T04:32:17.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CipherAES.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Utils\\Utils\\Utils\\Cipher\\CipherAES.cs",
+              "RelativeDocumentMoniker": "Utils\\Cipher\\CipherAES.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Utils\\Utils\\Utils\\Cipher\\CipherAES.cs",
+              "RelativeToolTip": "Utils\\Cipher\\CipherAES.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T02:18:51.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CipherGoalCrackAES.cs",
+              "DocumentMoniker": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Utils\\Utils\\Utils\\Cipher\\CipherGoalCrackAES.cs",
+              "RelativeDocumentMoniker": "Utils\\Cipher\\CipherGoalCrackAES.cs",
+              "ToolTip": "C:\\Proyectos\\S23Sports\\Dev\\App\\3.Transversal\\Utils\\Utils\\Utils\\Cipher\\CipherGoalCrackAES.cs",
+              "RelativeToolTip": "Utils\\Cipher\\CipherGoalCrackAES.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T02:15:46.952Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
